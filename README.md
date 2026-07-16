@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sankhajit Mahapatra 👋
 
-<!--
-**sankhajitmahapatra/sankhajitmahapatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at JIS University
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development, Web Development & AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- C
+- C++
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Git
+- GitHub
+
+🚀 Current Focus
+- Building real-world projects
+- Learning Full Stack Development
+- Improving Problem Solving
+
+🌐 Portfolio
+https://www.sankhajitmahapatra.com
+
+📧 Contact
+contact@sankhajitmahapatra.com
+
+🔗 Connect with Me
+- GitHub: https://github.com/sankhajitmahapatra
+- LinkedIn: https://linkedin.com/in/sankhajitmahapatra
+
+⭐ Thanks for visiting my profile!
